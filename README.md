@@ -1,4 +1,3 @@
-Here’s the README content formatted in markdown:
 
 ```markdown
 # rn-light-date-formatter
