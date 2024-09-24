@@ -1,8 +1,8 @@
 {
-  "name": "rn-light-date-formatter",
+  "name": "@da-war/rn-light-date-formatter",
   "version": "1.0.0",
   "description": "A lightweight date formatter for React Native applications.",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
   },
